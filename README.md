@@ -11,3 +11,5 @@ Nos videos seguintes foram abordados os assuntos sobre região, zona de disponib
 
 nas aulas seguintes foi explicado sobre os Serviços de Computação e Máquinas Virtuais do Azure, Conjuntos de Disponibilidade de Máquinas Virtuais do Azure, Área de Trabalho Virtual e Contêineres do Azure,
 Azure Functions e Serviços de Aplicativo do Azure e Computação e Rede.
+
+próximos ensinamentos foram sobre Redudância e Serviços de Armazenamento, Pontos de Extremidades Públicos e Camadas de Acesso, Migrações para o Azure e Opções de Gerenciamento de Arquivos.
