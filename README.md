@@ -17,3 +17,5 @@ próximos ensinamentos foram sobre Redudância e Serviços de Armazenamento, Pon
 na sequencia nas demais aulas vimos sobre Identidade, Acesso e Segurança, Microsoft Entra ID e Domain Services, Autenticação e Autorização e Acesso Condicional.
 
 Continuando as aulas foram abordados os temas sobre Gerenciamento de Custos na Azure: Fatores que Afetam os Custos, Fatores que Afetam os Custos e Azure Marketplace, Calculando o Custo Total no Azure e Marcas (Tags) no Azure. 
+
+Nas aulas seguintes vimos sobre Blueprints, Políticas e Bloqueios de Recurso: Primeiros Passos com Governança e Conformidade na Azure e Gerenciando Bloqueios de Recursos.
