@@ -13,3 +13,5 @@ nas aulas seguintes foi explicado sobre os Serviços de Computação e Máquinas
 Azure Functions e Serviços de Aplicativo do Azure e Computação e Rede.
 
 próximos ensinamentos foram sobre Redudância e Serviços de Armazenamento, Pontos de Extremidades Públicos e Camadas de Acesso, Migrações para o Azure e Opções de Gerenciamento de Arquivos.
+
+na sequencia nas demais aulas vimos sobre Identidade, Acesso e Segurança, Microsoft Entra ID e Domain Services, Autenticação e Autorização e Acesso Condicional.
