@@ -19,3 +19,5 @@ na sequencia nas demais aulas vimos sobre Identidade, Acesso e Segurança, Micro
 Continuando as aulas foram abordados os temas sobre Gerenciamento de Custos na Azure: Fatores que Afetam os Custos, Fatores que Afetam os Custos e Azure Marketplace, Calculando o Custo Total no Azure e Marcas (Tags) no Azure. 
 
 Nas aulas seguintes vimos sobre Blueprints, Políticas e Bloqueios de Recurso: Primeiros Passos com Governança e Conformidade na Azure e Gerenciando Bloqueios de Recursos.
+
+Continuando as aulas seguinte foi abordado Ferramentas de implantação de recursos e Ferramentas de Gerenciamento e Implantação
