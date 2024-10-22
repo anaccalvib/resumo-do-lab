@@ -15,3 +15,5 @@ Azure Functions e Serviços de Aplicativo do Azure e Computação e Rede.
 próximos ensinamentos foram sobre Redudância e Serviços de Armazenamento, Pontos de Extremidades Públicos e Camadas de Acesso, Migrações para o Azure e Opções de Gerenciamento de Arquivos.
 
 na sequencia nas demais aulas vimos sobre Identidade, Acesso e Segurança, Microsoft Entra ID e Domain Services, Autenticação e Autorização e Acesso Condicional.
+
+Continuando as aulas foram abordados os temas sobre Gerenciamento de Custos na Azure: Fatores que Afetam os Custos, Fatores que Afetam os Custos e Azure Marketplace, Calculando o Custo Total no Azure e Marcas (Tags) no Azure. 
