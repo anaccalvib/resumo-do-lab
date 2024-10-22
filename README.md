@@ -1,23 +1,55 @@
-# resumo-do-lab
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+# Resumo das Lições Aprendidas no Laboratório da DIO
 
-Na primeira aula de laboratório vimos a console da azure, os recursos do menu, maneiras de alterar o idioma, layout e o tema da console.
+Este repositório contém um resumo das lições aprendidas durante o desenvolvimento do laboratório na DIO, focado em **Azure** e **Cloud Computing**. Abaixo, estão descritas as principais aulas e os tópicos abordados:
 
-Na segunda parte vimos sobre os benefícios da nuvem e os seus recursos.
+## Aulas e Conteúdo
 
-Na terceira parte é explicado sobre os tipos de serviço de nuvem (IaaS, PaaS e SaaS). Bem como a responsabilidade compartilhada entre provedor de nuvem e o cliente.
+1. **Primeiros Passos no Azure**
+   - Introdução à console do Azure.
+   - Exploração dos recursos do menu.
+   - Configuração de idioma, layout e tema da console.
 
-Nos videos seguintes foram abordados os assuntos sobre região, zona de disponibilidade, zonas pares, conta e assinaturas, bem como grupos de recursos. Mostrou também como criar um grupo de recursos e incluir um recurso nesse grupo.
+2. **Benefícios da Nuvem**
+   - Conceitos de computação em nuvem.
+   - Vantagens e recursos da nuvem.
 
-nas aulas seguintes foi explicado sobre os Serviços de Computação e Máquinas Virtuais do Azure, Conjuntos de Disponibilidade de Máquinas Virtuais do Azure, Área de Trabalho Virtual e Contêineres do Azure,
-Azure Functions e Serviços de Aplicativo do Azure e Computação e Rede.
+3. **Modelos de Serviço de Nuvem**
+   - Tipos de serviço (IaaS, PaaS e SaaS).
+   - Responsabilidade compartilhada entre provedor e cliente.
 
-próximos ensinamentos foram sobre Redudância e Serviços de Armazenamento, Pontos de Extremidades Públicos e Camadas de Acesso, Migrações para o Azure e Opções de Gerenciamento de Arquivos.
+4. **Regiões e Grupos de Recursos**
+   - Região, zona de disponibilidade e zonas pares.
+   - Criação de grupos de recursos e inclusão de recursos.
 
-na sequencia nas demais aulas vimos sobre Identidade, Acesso e Segurança, Microsoft Entra ID e Domain Services, Autenticação e Autorização e Acesso Condicional.
+5. **Serviços de Computação e Máquinas Virtuais**
+   - Computação no Azure e máquinas virtuais (VMs).
+   - Conjuntos de disponibilidade de VMs.
+   - Área de Trabalho Virtual e Contêineres no Azure.
+   - Azure Functions, Serviços de Aplicativo e Rede.
 
-Continuando as aulas foram abordados os temas sobre Gerenciamento de Custos na Azure: Fatores que Afetam os Custos, Fatores que Afetam os Custos e Azure Marketplace, Calculando o Custo Total no Azure e Marcas (Tags) no Azure. 
+6. **Armazenamento e Redundância**
+   - Redundância e serviços de armazenamento no Azure.
+   - Pontos de extremidade públicos e camadas de acesso.
+   - Opções de migração e gerenciamento de arquivos.
 
-Nas aulas seguintes vimos sobre Blueprints, Políticas e Bloqueios de Recurso: Primeiros Passos com Governança e Conformidade na Azure e Gerenciando Bloqueios de Recursos.
+7. **Segurança e Identidade**
+   - Identidade e acesso no Azure.
+   - Microsoft Entra ID, Domain Services, autenticação, autorização e acesso condicional.
 
-Continuando as aulas seguinte foi abordado Ferramentas de implantação de recursos e Ferramentas de Gerenciamento e Implantação
+8. **Gerenciamento de Custos**
+   - Fatores que afetam os custos no Azure.
+   - Azure Marketplace, cálculo de custo total e uso de marcas (tags).
+
+9. **Governança e Conformidade**
+   - Primeiros passos com Blueprints, Políticas e Bloqueios de Recurso.
+   - Gerenciamento de bloqueios de recursos.
+
+10. **Ferramentas de Implantação e Gerenciamento**
+    - Ferramentas para implantação de recursos no Azure.
+    - Ferramentas de gerenciamento e monitoramento.
+
+## Considerações Finais
+Este repositório foi criado com o objetivo de compartilhar o conhecimento adquirido ao longo do desenvolvimento dos laboratórios. Acompanhe cada seção para entender melhor os conceitos aplicados na prática no ambiente Azure.
+
+## Preparação para a Certificação AZ-900
+Os tópicos abordados neste repositório foram fundamentais para o estudo da **certificação Azure AZ-900**. Esta certificação introduz os principais conceitos de computação em nuvem, serviços do Azure, gerenciamento de custos, governança e segurança. Cada lição aqui registrada contribuiu diretamente para uma compreensão sólida dos temas cobrados no exame, facilitando a preparação e o entendimento das melhores práticas em cloud computing com a plataforma Azure.
